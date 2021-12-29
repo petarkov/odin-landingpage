@@ -1,1 +1,1 @@
-# odin-landingpage
+This is my first attempt at a landing page, this project will improve as I move forward and learn more!
